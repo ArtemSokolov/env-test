@@ -1,4 +1,4 @@
 image: gitpod/workspace-java-17:latest
 
 tasks:
-  - command: cd /workspace/myproject && git checkout main
+  - command: cd /workspace/env-test && git checkout main
