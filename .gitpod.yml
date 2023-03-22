@@ -1,4 +1,4 @@
-image: docker pull gitpod/workspace-java:latest
+image: gitpod/workspace-java:latest
 
 tasks:
   - command: cd /workspace/myproject && git checkout main
