@@ -1,1 +1,1 @@
-image: docker pull gitpod/workspace-python:latest
+image: gitpod/workspace-python:latest
